@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido na 4.ª edição da Next Level Week (NLW), realiza
 
 ## 🤸‍♂️ Premissa
 
-O **LEVL^** é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo sentado ou em pé na frende do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
+O **LEVL^** é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo na frende do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
 
 <!-- ### 👀 Imagens do app
 
