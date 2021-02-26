@@ -1,6 +1,6 @@
 # LEVL^
 
-Olá 👋, seja bem vindo ao repositório do projeto **LEVL^** (Level Up).
+Olá 👋, seja bem vindo ao repositório do projeto **LEVL^**.
 
 ## 🤔 Sobre o projeto
 
@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido na 4.ª edição da Next Level Week (NLW), realiza
 
 ## 🤸‍♂️ Premissa
 
-O **LEVL^** é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo na frende do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
+O **LEVL^** (level up) é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo na frende do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
 
 <!-- ### 👀 Imagens do app
 
@@ -23,12 +23,6 @@ O **LEVL^** é um aplicativo com o intuito de nós, devs, fazermos uma pausa par
 
 ![]() -->
 
-## 📝 TODO
-
-Ainda há algumas coisas pendentes que desejo realizar:
-- Fazer a troca de temas;
-- Fazer a autenticação com o GitHub, para mostrar o nome de usuário e a foto de perfil de quem vai utilizar;
-- Fazer uma sessão que não necessite de perfil também. Nesse caso, quem estiver usando poderá colocar um nome e uma imagem de perfil (que está no armazemanto do computador).
 
 ## 😎 Coisas aprendidas
 
@@ -70,8 +64,20 @@ Para executar em sua máquina, faça os seguintes passsos:
    ```
 5. *Voilá!* Seu app já vai estar rodando no navegador na url: ```localhost:3000```.
 
+## 📝 TODO
+
+Ainda há algumas coisas pendentes que desejo realizar:
+- Fazer a troca de temas;
+- Fazer a autenticação com o GitHub, para mostrar o nome de usuário e a foto de perfil de quem vai utilizar;
+- Fazer uma sessão que não necessite de perfil também. Nesse caso, quem estiver usando poderá colocar um nome e uma imagem de perfil (que está no armazemanto do computador);
+- Deixar a página mais responsiva.
+
 ## 🙌 Agradecimentos
 
 Agradeço ao pessoal da Rocketseat, por ter compartilhando esse conhecimento de tão grande valor e com uma excelente qualidade nessa semana, com o foco do que está sendo mais usado hoje e, ainda mais, me levando para o próximo nível.
 
 **E agradeço a você por ter passado aqui! (っ˘ω˘ς )**
+
+## LICENÇA
+
+Este projeto está sob a licença AGPL 3

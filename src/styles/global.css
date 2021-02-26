@@ -42,6 +42,12 @@
   }
 }
 
+@media (max-height: 670px) {
+  html {
+    font-size: 86%;
+  }
+}
+
 @media (max-height: 640px) {
   html {
     font-size: 85%;

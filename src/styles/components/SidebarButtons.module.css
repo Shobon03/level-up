@@ -28,6 +28,19 @@
   height: 1.2rem;
 }
 
+@media (max-height: 670px) {
+  .sidebarButtonsContainer button,
+  .sidebarButtonsContainer a {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .sidebarButtonsContainer img {
+    width: 1.6rem;
+    height: 1.6rem;
+  }
+}
+
 @media (max-height: 640px) {
   .sidebarButtonsContainer button,
   .sidebarButtonsContainer a {

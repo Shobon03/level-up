@@ -30,8 +30,9 @@ export default function Home(props: HomeProps) {
       >
         <div className={styles.container}>
           <Head>
-            <title>LEVL^</title>
+            <title>LEVL^ | Faça um exercício e suba de nível!</title>
           </Head>
+          <strong className={styles.title}>LEVL^</strong>
           <SidebarButtons />
           <ExperienceBar />
           <CountdownProvider>

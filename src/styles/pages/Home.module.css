@@ -14,3 +14,11 @@
   gap: 6.25rem;
   align-content: center;
 }
+
+.container .title {
+  position: absolute;
+  left: 0;
+  margin-left: 3rem;
+  font-size: 3rem;
+  font-family: "Rajdhani", sans-serif;
+}

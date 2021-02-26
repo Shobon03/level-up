@@ -2,7 +2,7 @@
   height: 100%;
   background: var(--box);
   border-radius: 5px;
-  box-shadow: 0 0 60px rgba(153, 153, 153, 0.05);
+  box-shadow: 0 0 60px -10px rgba(153, 153, 153, 0.15);
   padding: 1.5rem 2rem;
   display: flex;
   flex-direction: column;
