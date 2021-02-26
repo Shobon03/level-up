@@ -80,4 +80,4 @@ Agradeço ao pessoal da Rocketseat, por ter compartilhando esse conhecimento de 
 
 ## LICENÇA
 
-Este projeto está sob a licença AGPL 3
+Este projeto está sob a licença AGPL-3.0.
