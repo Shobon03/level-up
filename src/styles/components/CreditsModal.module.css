@@ -1,0 +1,40 @@
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: var(--blue);
+}
+
+.container {
+  background: #131313;
+  width: 100%;
+  max-width: 400px;
+  padding: 2rem 3rem;
+  border-radius: 5px;
+  box-shadow: 0 0 60px rgba(153, 153, 153, 0.05);
+  text-align: center;
+  position: relative;
+}
+
+.container strong {
+  font-size: 3rem;
+}
+
+.container p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.container button {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  background: transparent;
+  border: 0;
+  font-size: 0;
+}
