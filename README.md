@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido na 4.ª edição da Next Level Week (NLW), realiza
 
 ## 👨‍💻 Tecnologias utilizadas
 
-- ```Next.js``` e ```React``` -> Front-end;
+- Next.js e React -> Front-end;
 - [Tippy.js](https://github.com/atomiks/tippyjs-react) com integração ao React -> Popovers.
 
 ## 🤸‍♂️ Premissa
