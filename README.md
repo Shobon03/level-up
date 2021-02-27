@@ -1,6 +1,18 @@
 # LEVL^
 
-Olá 👋, seja bem vindo ao repositório do projeto **LEVL^**.
+Olá 👋, seja bem vindo ao repositório do **LEVL^**.
+
+## 📝 Tabela de conteúdos
+
+- [Sobre o projeto](#sobre-o-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Premissa](#premissa)
+  - [Imagens](#imagens)
+- [Coisas aprendidas](#coisas-aprendidas)
+- [Como executar](#como-executar)
+- [TODO](#todo)
+- [Agradecimentos](#agradecimentos)
+- [Licença](#licença)
 
 ## 🤔 Sobre o projeto
 
@@ -13,15 +25,17 @@ Esse projeto foi desenvolvido na 4.ª edição da Next Level Week (NLW), realiza
 
 ## 🤸‍♂️ Premissa
 
-O **LEVL^** (level up) é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo na frende do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
+O **LEVL^** (level up) é um aplicativo com o intuito de nós, devs, fazermos uma pausa para fazer algum exercício, se alongar, etc, uma vez que passamos a maior parte do tempo na frente do computador. Foi feito como se fosse um jogo em que, a cada vez que conseguimos realizar algum exercício, ganhamos pontos de xp e subimos de nível. Mas, o mais importante de tudo isso é que nós estamos melhorando nossa saúde.
 
-<!-- ### 👀 Imagens do app
+### 👀 Imagens 
+
+TODO :D
 
 ![]()
 
 ![]()
 
-![]() -->
+![]()
 
 
 ## 😎 Coisas aprendidas
@@ -33,21 +47,21 @@ No meu caso...
 - Interfaces no Typescript;
 - Um pouco sobre o Next.js:
   - que as páginas podem ver tudo o que está na pasta ```public```;
-  - que temos que ter os aquivos e o que vai em cada um: ```_app.tsx```, ```_document.tsx``` e ```index.tsx``` *(.tsx caso utilizamos o TypeScript)*;
+  - que temos que ter os arquivos e o que vai em cada um: ```_app.tsx```, ```_document.tsx``` e ```index.tsx``` *(.tsx caso utilizamos o TypeScript)*;
 - Como guardar informações em cookies usando o Javascript;
 - Como usar o ```getServerProps()``` do Next.js para pegar as informações dos cookies.
 
-## Como executar no localhost
+## ✨ Como executar
 
-Para executar em sua máquina, faça os seguintes passsos:
+Para executar em sua máquina, faça os seguintes passos:
 1. Instale o Node.js e o Yarn;
 2. Crie um app next;
     ```
     yarn create next-app ${nome do projeto} --template-typescript
     ```
-3. Instale as dependencias; 
+3. Instale as dependências; 
     ```
-    yarn add ${nome da dependencia} -D
+    yarn add ${nome da dependência} -D
     ```
   - Typescript:
     - ```typescript```;
@@ -69,8 +83,9 @@ Para executar em sua máquina, faça os seguintes passsos:
 Ainda há algumas coisas pendentes que desejo realizar:
 - Fazer a troca de temas;
 - Fazer a autenticação com o GitHub, para mostrar o nome de usuário e a foto de perfil de quem vai utilizar;
-- Fazer uma sessão que não necessite de perfil também. Nesse caso, quem estiver usando poderá colocar um nome e uma imagem de perfil (que está no armazemanto do computador);
-- Deixar a página mais responsiva.
+- Fazer uma sessão que não necessite de perfil também. Nesse caso, quem estiver usando poderá colocar um nome e uma imagem de perfil (que está no armazenamento do computador);
+- Deixar a página mais responsiva;
+- Fazer o deploy na Vercel.
 
 ## 🙌 Agradecimentos
 
@@ -78,6 +93,6 @@ Agradeço ao pessoal da Rocketseat, por ter compartilhando esse conhecimento de 
 
 **E agradeço a você por ter passado aqui! (っ˘ω˘ς )**
 
-## LICENÇA
+## 📖 Licença
 
-Este projeto está sob a licença AGPL 3
+Este projeto está sob a licença AGPL-3.0.
