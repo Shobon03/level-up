@@ -6,7 +6,7 @@ Olá 👋, seja bem vindo ao repositório do **LEVL^**.
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Premissa](#--premissa)
+- [Premissa](#%EF%B8%8F-premissa)
   - [Imagens](#-imagens)
 - [Coisas aprendidas](#-coisas-aprendidas)
 - [Como executar](#-como-executar)
