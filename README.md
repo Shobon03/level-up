@@ -2,7 +2,7 @@
 
 Olá 👋, seja bem vindo ao repositório do projeto **LEVL^**.
 
-(Sobre o projeto)[./#-sobre-o-projeto]
+[Sobre o projeto](./#-sobre-o-projeto)
 
 ## 🤔 Sobre o projeto
 
