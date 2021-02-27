@@ -4,15 +4,15 @@ Olá 👋, seja bem vindo ao repositório do **LEVL^**.
 
 ## 📝 Tabela de conteúdos
 
-- [Sobre o projeto](#sobre-o-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Premissa](#premissa)
-  - [Imagens](#imagens)
-- [Coisas aprendidas](#coisas-aprendidas)
-- [Como executar](#como-executar)
-- [TODO](#todo)
-- [Agradecimentos](#agradecimentos)
-- [Licença](#licença)
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Premissa](#%EF%B8%8F-premissa)
+  - [Imagens](#-imagens)
+- [Coisas aprendidas](#-coisas-aprendidas)
+- [Como executar](#-como-executar)
+- [TODO](#-todo)
+- [Agradecimentos](#-agradecimentos)
+- [Licença](#-licença)
 
 ## 🤔 Sobre o projeto
 
