@@ -29,13 +29,7 @@ O **LEVL^** (level up) é um aplicativo com o intuito de nós, devs, fazermos um
 
 ### 👀 Imagens 
 
-TODO :D
-
-![]()
-
-![]()
-
-![]()
+todo...
 
 
 ## 😎 Coisas aprendidas
