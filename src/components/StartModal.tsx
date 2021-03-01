@@ -1,25 +1,28 @@
-import { useState } from "react";
+// TODO idk when i'm going to change '-' //
 
-import style from "../styles/components/StartModal.module.css";
+import { useContext, useState } from "react";
+import { StartModalContext } from "../contexts/StartModalContext";
 
-export function StartModal({ children }) {
-  const [isOpen, setIsOpen] = useState(true);
-  const [hasChildrenShown, setHasChildrenShown] = useState(true);
+import styles from "../styles/components/StartModal.module.css";
 
-  function close() {
-    setIsOpen(false);
+export function StartModal() {
+  const { closeStartModal } = useContext(StartModalContext);
+
+  const [whatButtonIsPressed, setWhatButtonIsPressed] = useState(false); // false -> anonymous login § true -> github login
+
+  function changeButton() {
+    setWhatButtonIsPressed(true);
   }
 
-  return isOpen ? (
-    <>
-      <div className={style.startModalContainer}>
-        <span onClick={close}>
-          <img src="/icons/close.svg" alt="close" />
-        </span>
+  return (
+    <div className={styles.ovarlay}>
+      <div className={styles.container}>
+        <strong>LEVL^</strong>
+        <form action="">
+          <input type="text" name="username" placeholder="Username" />
+          <button type="button">Vamos nessa!</button>
+        </form>
       </div>
-      {children}
-    </>
-  ) : (
-    children
+    </div>
   );
 }

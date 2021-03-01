@@ -45,7 +45,6 @@ export function Countdown() {
               onClick={resetCountdown}
             >
               Abandonar ciclo
-              <span></span>
             </button>
           ) : (
             <button

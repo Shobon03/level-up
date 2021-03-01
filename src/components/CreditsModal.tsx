@@ -1,8 +1,8 @@
 import { useContext } from "react";
 import { CreditsContext } from "../contexts/CreditsContext";
+import { InfoButton } from "./InfoButton";
 
 import styles from "../styles/components/CreditsModal.module.css";
-import { InfoButton } from "./InfoButton";
 
 export function CreditsModal() {
   const { closeCreditsModal } = useContext(CreditsContext);
@@ -20,7 +20,7 @@ export function CreditsModal() {
         </p>
         <p>
           O projeto foi desenvolvido com React e Next.js, juntamente com o
-          Tippy.js para fazer os popovers.
+          Tippy.js para fazer os popovers e o Feather Icons.
         </p>
         <p>
           Agradeço ao pessoal da Rocketseat por ter preparado um conteúdo tão
@@ -54,7 +54,7 @@ export function CreditsModal() {
             </a>
           </InfoButton>
           <InfoButton
-            tooltipContent={<span>Licença: AGPL 3</span>}
+            tooltipContent={<span>Licença: AGPL-3.0</span>}
             placement="top"
             interactive={false}
           >

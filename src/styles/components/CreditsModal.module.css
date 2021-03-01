@@ -22,7 +22,9 @@
 }
 
 .container > strong {
-  font-size: 3rem;
+  font-size: 3.5rem;
+  font-family: "Rajdhani", sans-serif;
+  line-height: 0.8;
 }
 
 .container p {
@@ -54,7 +56,7 @@
 
 .container button:last-child,
 .container a {
-  background: white;
+  background: #f2f3f5;
   width: 2.4rem;
   height: 2.4rem;
   padding: 2px;

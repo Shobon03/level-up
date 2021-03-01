@@ -76,7 +76,7 @@ Para executar em sua máquina, faça os seguintes passos:
 
 ## 📝 TODO
 
-Ainda há algumas coisas pendentes que desejo realizar:
+Ainda há algumas coisas pendentes, como:
 - Fazer a troca de temas;
 - Fazer a autenticação com o GitHub, para mostrar o nome de usuário e a foto de perfil de quem vai utilizar;
 - Fazer uma sessão que não necessite de perfil também. Nesse caso, quem estiver usando poderá colocar um nome e uma imagem de perfil (que está no armazenamento do computador);
@@ -86,9 +86,9 @@ Ainda há algumas coisas pendentes que desejo realizar:
 ## ❗️ Notas
 
 1. Eu não quis utilizar a CDN do [Google Fonts](https://fonts.google.com/) por causa da política de privacidade da Google. Mas foram utilizadas as fontes que estão ali. São elas:
-  - [Inter](https://fonts.google.com/specimen/Inter) 
-  - [Rajdhani](https://fonts.google.com/specimen/Rajdhani)\
-  Baixe as fontes e coloque-as na pasta de fontes do seu sistema para ter uma melhor visualização do site, caso queira executar o app em sua máquina.
+    - [Inter](https://fonts.google.com/specimen/Inter) 
+    - [Rajdhani](https://fonts.google.com/specimen/Rajdhani)\
+  (Baixe as fontes e coloque-as na pasta de fontes do seu sistema para ter uma melhor visualização do site, caso queira executar o app em sua máquina)
 
 ## 📖 Licença
 
